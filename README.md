@@ -41,8 +41,8 @@ We believed in a better future for the blinds, where they can have their own app
 
 There are 2 main features on this app:
 
-* Object Detection, powered by YOLOv3. Public API is available, please find instructions in API Folder, pay attention to README.md
-* News Reader, sources from The New York Times
+* Object Detection, powered by YOLOv3. Public API is available, please find instructions in API Folder, pay attention to README.md.
+* News Reader, sources from The New York Times via voice on mobile phone. Users can listen summarized articles, ask virtual assistant for missing information.
 
 
 
